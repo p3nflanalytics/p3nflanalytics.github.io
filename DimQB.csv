@@ -1,4 +1,4 @@
-﻿QB Short,No.,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted By,Draft Year,Salary,Index,ProfileLookup,HeightInInches,QBName,FixedImg,PlayerKey,CurrentTeam,IsCurrentStarter
+QB Short,No.,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Drafted By,Draft Year,Salary,Index,ProfileLookup,HeightInInches,QBName,FixedImg,PlayerKey,CurrentTeam,IsCurrentStarter
 "Ryan, M.",2,34,QB,1,1,217,6-4,Boston Col.,"Friday, May 17, 1985",11,,Atlanta Falcons,2008,"$2,750,000.",39,https://www.pro-football-reference.com/players/R/RyanMa00.htm,76,Matt Ryan,https://d395i9ljze9h3x.cloudfront.net/req/20180910/images/headshots/RyanMa00_2019.jpg,ATL39,ATL,Yes
 "Allen, J.",17,23,QB,1,1,237,6-5,Wyoming,"Tuesday, May 21, 1996",1,,Buffalo Bills,2018,"$570,000.",2,https://www.pro-football-reference.com/players/A/AlleJo02.htm,77,Josh Allen,https://d395i9ljze9h3x.cloudfront.net/req/20180910/images/headshots/AlleJo02_2019.jpg,BUF2,BUF,Yes
 "Newton, C.",1,30,QB,1,1,245,6-5,"Florida,Blinn College (TX),Auburn","Thursday, May 11, 1989",8,,Carolina Panthers,2011,"$16,200,000.",34,https://www.pro-football-reference.com/players/N/NewtCa00.htm,77,Cam Newton,https://d395i9ljze9h3x.cloudfront.net/req/20180910/images/headshots/NewtCa00_2019.jpg,CAR34,CAR,No
@@ -50,3 +50,13 @@
 "Schaub, M.",,,,,,,,,,,,,,,,,,Matt Schaub,https://d395i9ljze9h3x.cloudfront.net/req/20180910/images/headshots/SchaMa00_2019.jpg,,ATL,No
 "Moore, M.",,,,,,,,,,,,,,,,,,Matt Moore,https://d395i9ljze9h3x.cloudfront.net/req/20180910/images/headshots/MoorMa01_2017.jpg,,KAN,No
 "Glennon, M.",,,,,,,,,,,,,,,,,,Mike Glennon,https://d395i9ljze9h3x.cloudfront.net/req/20180910/images/headshots/GlenMi00_2019.jpg,,RAI,No
+"Allen, B.",,,,,,,,,,,,,,,,,,Brandon Allen,https://d395i9ljze9h3x.cloudfront.net/req/20180910/images/headshots/AlleBr00_2019.jpg,,DEN,Yes
+"Hoyer, B.",,,,,,,,,,,,,,,,,,Brian Hoyer,https://d395i9ljze9h3x.cloudfront.net/req/20180910/images/headshots/HoyeBr00_2019.jpg,,CLT,No
+"Driskel, J.",,,,,,,,,,,,,,,,,,Jeff Driskel,https://d395i9ljze9h3x.cloudfront.net/req/20180910/images/headshots/DrisJe00_2019.jpg,,DET,
+"Finley, R.",,,,,,,,,,,,,,,,,,Ryan Finley,https://d395i9ljze9h3x.cloudfront.net/req/20180910/images/headshots/FinlRy00_2019.jpg,,CIN,
+"Griffin, R.",,,,,,,,,,,,,,,,,,Robert Griffin III,https://d395i9ljze9h3x.cloudfront.net/req/20180910/images/headshots/GrifRo01_2019.jpg,,RAV,
+"Blough, D.",,,,,,,,,,,,,,,,,,David Blough,https://d395i9ljze9h3x.cloudfront.net/req/20180910/images/headshots/BlouDa00_2019.jpg,,DET,
+"Lock, D.",,,,,,,,,,,,,,,,,,Drew Lock,https://d395i9ljze9h3x.cloudfront.net/req/20180910/images/headshots/LockDr00_2019.jpg,,DEN,Yes
+"Tannehill, R.",,,,,,,,,,,,,,,,,,Ryan Tannehill,https://d395i9ljze9h3x.cloudfront.net/req/20180910/images/headshots/TannRy00_2019.jpg,,OTI,
+"Mannion, S.",,,,,,,,,,,,,,,,,,Sean Mannion,https://d395i9ljze9h3x.cloudfront.net/req/20180910/images/headshots/MannSe00_2019.jpg,,MIN,
+"McCarron, A.",,,,,,,,,,,,,,,,,,AJ McCarron,https://d395i9ljze9h3x.cloudfront.net/req/20180910/images/headshots/McCaA.00_2018.jpg,,HTX,
